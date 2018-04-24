@@ -7,7 +7,7 @@ var toDoSchema = new Schema ({
 
     username: String,
     toDo: String,
-    isDOne: Boolean,
+    isDone: Boolean,
     hasAttachement: Boolean
 })
 
